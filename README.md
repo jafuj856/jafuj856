@@ -1,120 +1,81 @@
-# 👋 Hi, I'm Jafar Parayil
+<h1 align="center">Hi 👋, I'm Jafar Parayil</h1>
+<h3 align="center">🚀 MERN Stack Developer | AI & ML Enthusiast | Team Lead @ Adam Technologies</h3>
 
-🚀 **MERN Stack Developer | React.js Expert | Team Lead**  
-🎯 Passionate about building scalable web apps with elegant UI/UX and AI integration.
-
----
-
-### 🧠 About Me
-
-💻 3+ years of experience as a **React/MERN Stack Developer**  
-🌍 Based in Kerala, India  
-🧩 Problem-solver | Tech enthusiast | Fast learner  
-🗣️ Languages: English, Malayalam  
-🛠️ Team Lead at Adam Technologies (Sept 2022 - Present)
+<p align="center">
+  <a href="https://github.com/jafuj856"><img src="https://komarev.com/ghpvc/?username=jafuj856&label=Profile%20views&color=0e75b6&style=flat" alt="jafuj856" /></a>
+</p>
 
 ---
 
-### ⚒️ Tech Stack
+### 🔥 About Me
 
-- **Frontend**: React.js (Expert), Next.js, Redux, Hooks, Tailwind CSS, HTML5, CSS3  
-- **Backend**: Express.js, NestJS, Spring Boot  
-- **Mobile**: Flutter (Intermediate), React Native (Basic)  
-- **Databases**: MongoDB, Firebase, MySQL  
-- **Languages**: TypeScript, JavaScript (ES6+), Python (basic), Java  
-- **Machine Learning**: TensorFlow.js (basic), Python (Learning)  
-- **Tools**: Git, GitHub, Vite, REST APIs, Postman, VS Code  
-- **Deployment**: Vercel, Render, AWS  
-- **Other Skills**: SSO, Payment Integration, Responsive Design
+- 💻 Passionate React Developer with **3+ years** experience  
+- 👨‍💻 Skilled in building high-performance **MERN stack** applications  
+- 🧠 Learning AI/ML: **TensorFlow.js**, Python, and HuggingFace Models  
+- 📱 Intermediate in **Flutter** and basic **React Native**  
+- 🚀 Built and deployed **AI Chatbot**, **Face Recognition**, **E-commerce**, **Education Platform**, and more  
+- 👨‍💼 Currently working as **Team Lead** at Adam Technologies
+
+---
+
+### 🧰 Tech Stack
+
+#### 🚀 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+
+#### 💾 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🧪 Other
+![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-🧠 **AI Chatbot (Zephyr 7B + HuggingFace)**  
-Crafted a powerful AI chatbot using React + HuggingFace + Zephyr 7B  
-🔗 [Live Demo](https://my-ai-react-app-nkot.vercel.app/)
-
-📚 **EduNexis – Education Platform**  
-Learning platform with course management and payment integration  
-🔗 [Live Demo](https://education.owpmf.tech)
-
-🛒 **Nextis Market – E-commerce App**  
-React (Vite), React Query, Auth, Cart, Payment Gateway  
-🔗 [Live Demo](http://nexis-market-panel.vercel.app)
-
-🎯 **Face Recognition App (Security AI)**  
-Face detection/authentication using face-api.js  
-🔗 [Live Demo](https://find.clientpic.com/?user=user&id=67755f565917ea4604d0b513&userId=6772735f5917ea4604d0ae2a&waterMark=true)
-
-🔐 **Multi-App Mother App (SSO & Integration)**  
-Single Sign-On across multiple React apps  
-🔗 [Live Demo](https://clinic-tele-medicine.vercel.app/selectField)
-
-🏥 **Clinic & Landing Pages**  
-- [Clinics Landing Page](https://clinics-landing-page.vercel.app/)  
-- [Vivera Landing Page](https://vivera-landing-page.vercel.app)  
-- [Livera Website](https://www.liveraapp.com)  
-- [PlusCare User (Ongoing)](https://plus-care-user-web.vercel.app/)
-
----
-
-### 📈 Career Timeline
-
-- 💼 **Team Lead & Software Engineer**, Adam Technologies (2022 - Present)  
-- ☕ **Java Fullstack Developer**, Inmakes Infotech (2021 - 2022)
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jafar-parayil-56481216b" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="mailto:jafuj856@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-  </a>
-  <a href="https://github.com/jafuj856" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🧰 Languages, Frameworks & Tools I Use
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-</p>
+| Project | Tech Stack | Live Link |
+|--------|------------|-----------|
+| 🧠 AI Chatbot (HuggingFace, Zephyr-7B) | React + HuggingFace API | [Live App](https://my-ai-react-app-nkot.vercel.app/) |
+| 🏫 EduNexis (Education Platform) | React + UI/UX + Payments | [Visit Site](https://education.owpmf.tech) |
+| 📸 Face Recognition | React + Face-API.js | [Visit App](https://find.clientpic.com/?user=user&id=67755f565917ea4604d0b513&userId=6772735f5917ea4604d0ae2a&waterMark=true) |
+| 🛍️ Nexis Market (E-commerce) | Vite + React Query + Payment | [Visit Panel](http://nexis-market-panel.vercel.app) |
+| 💼 Clinics Landing Page | HTML + React | [Demo](https://clinics-landing-page.vercel.app/) |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jafuj856&show_icons=true&theme=radical" alt="jafar's GitHub stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jafuj856&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafuj856&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafuj856&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
-> *“Code is not just syntax; it's a story you tell the computer to solve problems.”*
+### 🔗 Connect With Me
+
+- 🌐 [Portfolio Coming Soon]
+- 📧 jafuj856@gmail.com
+- 💼 [LinkedIn (optional)](https://www.linkedin.com/in/your-link)
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
