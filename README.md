@@ -60,7 +60,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jafuj856&show_icons=true&theme=radical" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jafuj856&theme=radical" width="48%" />
 </p>
 
@@ -79,3 +78,4 @@
 ---
 
 ⭐️ *If you like my work, consider giving a star to my repositories!*
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jafuj856&show_icons=true&theme=radical" width="48%" /> -->
