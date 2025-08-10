@@ -49,11 +49,11 @@
 
 | Project | Tech Stack | Live Link |
 |--------|------------|-----------|
-| 🧠 AI Chatbot (HuggingFace, Zephyr-7B) | React + HuggingFace API | [Live App](https://my-ai-react-app-nkot.vercel.app/) |
-| 🏫 EduNexis (Education Platform) | React + UI/UX + Payments | [Visit Site](https://education.owpmf.tech) |
+| 🧠 AI Chatbot (HuggingFace, Zephyr-7B) | React + HuggingFace API | [Live App](https://jafar-portifolio.vercel.app/) |
 | 📸 Face Recognition | React + Face-API.js | [Visit App](https://find.clientpic.com/?user=user&id=67755f565917ea4604d0b513&userId=6772735f5917ea4604d0ae2a&waterMark=true) |
 | 🛍️ Nexis Market (E-commerce) | Vite + React Query + Payment | [Visit Panel](http://nexis-market-panel.vercel.app) |
 | 💼 Clinics Landing Page | HTML + React | [Demo](https://clinics-landing-page.vercel.app/) |
+| 🏫 EduNexis (Education Platform) | React + UI/UX + Payments | [Visit Site](https://education.owpmf.tech) |
 
 ---
 
@@ -69,7 +69,7 @@
 
 ### 🔗 Connect With Me
 
-- 🌐 [Portfolio Coming Soon]
+- 🌐 [Portfolio](https://jafar-portifolio.vercel.app/)
 - 📧 jafuj856@gmail.com
 - 💼 [LinkedIn (optional)](https://www.linkedin.com/in/your-link)
 
