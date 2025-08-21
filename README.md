@@ -49,7 +49,7 @@
 
 | Project | Tech Stack |
 |---------|------------|
-| [🧠 AI Resume Maker](https://ai-resume-maker-pi.vercel.app/) (ongoing PDF creation) | React · Groq API |
+| [🧠 AI Resume Maker](https://ai-resume-maker-pi.vercel.app/) (ongoing PDF creation) | vite .ts · Groq API |
 | [🤖 AI Chatbot](https://jafar-portifolio.vercel.app/) | React · HuggingFace API |
 | [📸 Face Recognition](https://find.clientpic.com/?user=user&id=67755f565917ea4604d0b513&userId=6772735f5917ea4604d0ae2a&waterMark=true) | React · Face-API.js |
 | [🛍️ Nexis Market](http://nexis-market-panel.vercel.app) | Vite · React Query · Payment |
