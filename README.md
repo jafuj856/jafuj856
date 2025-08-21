@@ -47,13 +47,14 @@
 
 ### 🚀 Featured Projects
 
-| Project | Tech Stack | Live Link |
-|--------|------------|-----------|
-| 🧠 AI Chatbot (HuggingFace, Zephyr-7B) | React + HuggingFace API | [Live App](https://jafar-portifolio.vercel.app/) |
-| 📸 Face Recognition | React + Face-API.js | [Visit App](https://find.clientpic.com/?user=user&id=67755f565917ea4604d0b513&userId=6772735f5917ea4604d0ae2a&waterMark=true) |
-| 🛍️ Nexis Market (E-commerce) | Vite + React Query + Payment | [Visit Panel](http://nexis-market-panel.vercel.app) |
-| 💼 Clinics Landing Page | HTML + React | [Demo](https://clinics-landing-page.vercel.app/) |
-| 🏫 EduNexis (Education Platform) | React + UI/UX + Payments | [Visit Site](https://education.owpmf.tech) |
+| Project | Tech Stack |
+|---------|------------|
+| [🧠 AI Resume Maker](https://ai-resume-maker-pi.vercel.app/) (ongoing PDF creation) | React · Groq API |
+| [🤖 AI Chatbot](https://jafar-portifolio.vercel.app/) | React · HuggingFace API |
+| [📸 Face Recognition](https://find.clientpic.com/?user=user&id=67755f565917ea4604d0b513&userId=6772735f5917ea4604d0ae2a&waterMark=true) | React · Face-API.js |
+| [🛍️ Nexis Market](http://nexis-market-panel.vercel.app) | Vite · React Query · Payment |
+| [💼 Clinics Landing Page](https://clinics-landing-page.vercel.app/) | HTML · React |
+| [🏫 EduNexis](https://education.owpmf.tech) | React · UI/UX · Payments |
 
 ---
 
